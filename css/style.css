@@ -546,11 +546,11 @@ label.valid {
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 50px;
-    order: 2;
-    -moz-order: 2;
-    -webkit-order: 2;
-    -o-order: 2;
-    -ms-order: 2; }
+    order: 1;
+    -moz-order: 1;
+    -webkit-order: 1;
+    -o-order: 1;
+    -ms-order: 1; }
 
   .signup-form, .signup-image, .signin-form, .signin-image {
     width: auto; }
@@ -566,11 +566,11 @@ label.valid {
     text-align: center; }
 
   .signin-form {
-    order: 1;
-    -moz-order: 1;
-    -webkit-order: 1;
-    -o-order: 1;
-    -ms-order: 1;
+    order: 2;
+    -moz-order: 2;
+    -webkit-order: 2;
+    -o-order: 2;
+    -ms-order: 2;
     margin-right: 0px;
     margin-left: 0px;
     padding: 0 30px; }
